@@ -1,0 +1,13 @@
+[
+  {
+    // Exact match of parameter count
+    "something": "some string",
+    "someInteger": 123
+  },
+  {
+    // 1 unused parameter
+    "something": "some string",
+    "someInteger": 123,
+    "somethingThatIsNotUsed": true
+  }
+]
