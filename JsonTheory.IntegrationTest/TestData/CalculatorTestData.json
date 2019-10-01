@@ -1,12 +1,12 @@
 [
-  {
-    "operand1": 123,
-    "operand2": 456,
-    "expected": 579
-  },
-  {
-    "expected": 12,
-    "operand1": 4,
-    "operand2": 8 
-  }
+	{
+		"operand1": 123,
+		"operand2": 456,
+		"expected": 579
+	},
+	{
+		"expected": 12,
+		"operand1": 4,
+		"operand2": 8
+	}
 ]

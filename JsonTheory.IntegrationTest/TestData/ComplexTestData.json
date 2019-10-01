@@ -1,26 +1,26 @@
 [
-  {
-    "person": {
-      "name": "Walter",
-      "age": 47,
-      "pet": {
-        "petType": "Dog",
-        "name": "Charles"
-      }
-    },
-    "expectedName": "Walter",
-    "expectedAge": 47,
-    "expectedHasPet": true, 
-    "expectedPetType": "Dog",
-    "expectedPetName": "Charles"
-  },
-  {
-    "person": {
-      "name": "Mila",
-      "age": 12
-    },
-    "expectedName": "Mila",
-    "expectedAge": 12,
-    "expectedHasPet": false
-  }
+	{
+		"person": {
+			"name": "Walter",
+			"age": 47,
+			"pet": {
+				"petType": "Dog",
+				"name": "Charles"
+			}
+		},
+		"expectedName": "Walter",
+		"expectedAge": 47,
+		"expectedHasPet": true,
+		"expectedPetType": "Dog",
+		"expectedPetName": "Charles"
+	},
+	{
+		"person": {
+			"name": "Mila",
+			"age": 12
+		},
+		"expectedName": "Mila",
+		"expectedAge": 12,
+		"expectedHasPet": false
+	}
 ]
